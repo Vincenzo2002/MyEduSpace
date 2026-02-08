@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 7eedc0892eb9b4034be9d21602e87505
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>fab-model-conversion
+
+    <b>Version: </b>2.0
+
+
+    <b>Extras:
+    </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  textures:
+  - {fileID: 2800000, guid: c82066e859b1d42feb61421b05a98bb5, type: 3}
+  - {fileID: 2800000, guid: 608fa4876cf2f46b498bb8d867cca19c, type: 3}
+  - {fileID: 2800000, guid: e629187ec055b4d2e85efb3c57de15f9, type: 3}
+  - {fileID: 2800000, guid: 89cbf328346744075af0e38ff0cd2af5, type: 3}
+  - {fileID: 2800000, guid: 792752f5e662c47228c478583ca96d42, type: 3}
+  - {fileID: 2800000, guid: 0301687ca4c8f4fc5a0e3df5401cb5c8, type: 3}
+  - {fileID: 2800000, guid: 15334adc251a94b218f3a2a43e7ac06a, type: 3}
+  - {fileID: 2800000, guid: f6a1dcff04a5b4dc4b0506148367858b, type: 3}
+  - {fileID: 2800000, guid: 5a83fbba565bb4f22bb930ab14ddc8c5, type: 3}
+  - {fileID: 2800000, guid: 35c8dfa36d7d04cb0b155cec78d6d46f, type: 3}
+  - {fileID: 2800000, guid: 1ae13282a25664f4ab8dcc01ace0e1ca, type: 3}
+  - {fileID: 2800000, guid: ae7106ab1c6a043ab999ad592074abd8, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions: []
+  _textures:
+  - texture: {fileID: 2800000, guid: c82066e859b1d42feb61421b05a98bb5, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 608fa4876cf2f46b498bb8d867cca19c, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: e629187ec055b4d2e85efb3c57de15f9, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 89cbf328346744075af0e38ff0cd2af5, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 792752f5e662c47228c478583ca96d42, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 0301687ca4c8f4fc5a0e3df5401cb5c8, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 15334adc251a94b218f3a2a43e7ac06a, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: f6a1dcff04a5b4dc4b0506148367858b, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 5a83fbba565bb4f22bb930ab14ddc8c5, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: 35c8dfa36d7d04cb0b155cec78d6d46f, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 1ae13282a25664f4ab8dcc01ace0e1ca, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: ae7106ab1c6a043ab999ad592074abd8, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
+  _importPlugins: []

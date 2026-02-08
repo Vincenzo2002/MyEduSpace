@@ -1,0 +1,42 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px; background-color: rgba(27, 27, 27, 0.9);">
+        <ui:TabView name="tabViewTipologieAule" style="background-color: rgba(0, 0, 0, 0);">
+            <ui:Tab label="Aula Vuota" name="tabEmpty">
+                <ui:VisualElement name="visualeElementPanelAula" style="flex-grow: 1;">
+                    <ui:VisualElement name="visualElementTitle" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/MyEduSpace/Icons/BannerAulaVuota.png?fileID=2800000&amp;guid=e2ff5a841367e425e94dc03e6e52d1e9&amp;type=3#BannerAulaVuota&quot;);">
+                        <ui:Label text="Aula Vuota" selectable="false" focusable="false" style="height: 236px; width: 578px; -unity-text-align: upper-center; color: rgb(255, 255, 255); font-size: 20px;" />
+                    </ui:VisualElement>
+                    <ui:Label text="Spazio didattico vuoto che puoi personalizzare &#10;liberamente per creare qualsiasi tipologia di lezione.&#10;  &#10;Con Join ti teletrasporti al punto di partenza" name="description" style="height: 156px; width: 584px; -unity-text-align: upper-center; color: rgb(255, 255, 255);" />
+                    <ui:Button text="Join" name="joinAulaVuota" style="width: 100px; align-self: center; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px; color: rgb(255, 255, 255); background-color: rgb(32, 150, 243);" />
+                </ui:VisualElement>
+            </ui:Tab>
+            <ui:Tab label="Lezione Frontale" name="tabLezioneFrontale">
+                <ui:VisualElement name="visualeElementPanelLezioneFrontale" style="flex-grow: 1;">
+                    <ui:VisualElement name="visualElementTitle" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/MyEduSpace/Icons/BannerLezioneFrontale.png?fileID=2800000&amp;guid=f46ba8cf42a514009bfd42d71472c3fc&amp;type=3#BannerLezioneFrontale&quot;);">
+                        <ui:Label text="Lezione Frontale" selectable="false" focusable="false" style="height: 236px; width: 578px; -unity-text-align: upper-center; color: rgb(255, 255, 255); font-size: 20px;" />
+                    </ui:VisualElement>
+                    <ui:Label text="Descrizione &#10;Ambiente predisposto per la didattica frontale, &#10;con banchi e lavagna per l’interazione docente-studente.&#10;  &#10;Con Join ti teletrasporti al punto di partenza" name="description" style="height: 156px; width: 584px; -unity-text-align: upper-center; color: rgb(255, 255, 255);" />
+                    <ui:Button text="Join" name="joinFrontale" style="width: 100px; align-self: center; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px; color: rgb(255, 255, 255); background-color: rgb(32, 150, 243);" />
+                </ui:VisualElement>
+            </ui:Tab>
+            <ui:Tab label="Lezione Individuale" name="tabLezioneIndividuale">
+                <ui:VisualElement name="visualeElementPanelAula" style="flex-grow: 1;">
+                    <ui:VisualElement name="visualElementTitle" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/MyEduSpace/Icons/BannerLezioneIndividuale.png?fileID=2800000&amp;guid=e03402baff82b48088abfc98de81a25e&amp;type=3#BannerLezioneIndividuale&quot;);">
+                        <ui:Label text="Lezione Individuale" selectable="false" focusable="false" style="height: 236px; width: 578px; -unity-text-align: upper-center; color: rgb(255, 255, 255); font-size: 20px;" />
+                    </ui:VisualElement>
+                    <ui:Label text="Descrizione &#10;Area silenziosa e concentrata, &#10;ideale per esercizi autonomi e attività di autoapprendimento.&#10;  &#10;Con Join ti teletrasporti al punto di partenza" name="description" style="height: 156px; width: 584px; -unity-text-align: upper-center; color: rgb(255, 255, 255);" />
+                    <ui:Button text="Join" name="joinIndividuale" style="width: 100px; align-self: center; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px; color: rgb(255, 255, 255); background-color: rgb(32, 150, 243);" />
+                </ui:VisualElement>
+            </ui:Tab>
+            <ui:Tab label="Attività di Gruppo" name="tabAttivitaDiGruppo">
+                <ui:VisualElement name="visualeElementPanelAula" style="flex-grow: 1;">
+                    <ui:VisualElement name="visualElementTitle" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/MyEduSpace/Icons/BannerLezioneDiGruppo.png?fileID=2800000&amp;guid=ec2ff2560478b4414abb92c47add32ec&amp;type=3#BannerLezioneDiGruppo&quot;);">
+                        <ui:Label text="Attività di Gruppo" selectable="false" focusable="false" style="height: 236px; width: 578px; -unity-text-align: upper-center; color: rgb(255, 255, 255); font-size: 20px;" />
+                    </ui:VisualElement>
+                    <ui:Label text="Descrizione &#10;Aula dinamica pensata per la collaborazione tra studenti, &#10;con tavoli condivisi e strumenti interattivi.&#10;  &#10;Con Join ti teletrasporti al punto di partenza" name="description" style="height: 156px; width: 584px; -unity-text-align: upper-center; color: rgb(255, 255, 255);" />
+                    <ui:Button text="Join" name="joinGruppo" style="width: 100px; align-self: center; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px; color: rgb(255, 255, 255); background-color: rgb(32, 150, 243);" />
+                </ui:VisualElement>
+            </ui:Tab>
+        </ui:TabView>
+    </ui:VisualElement>
+</ui:UXML>

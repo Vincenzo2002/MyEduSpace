@@ -1,0 +1,552 @@
+{
+  "assetCategories": {
+    "surface": {
+      "wood": {
+        "parquet": {}
+      }
+    }
+  },
+  "averageColor": "#000000",
+  "categories": [
+    "surface",
+    "Wood",
+    "Floor"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "displacementBias": 0.847622,
+  "displacementCalibrationAccuracy": 0.998758,
+  "displacementScale": 0.032844,
+  "environment": {
+    "biome": "undefined",
+    "region": "Asia"
+  },
+  "highest_available_res": 16384,
+  "id": "tibkfgyl",
+  "json": {
+    "contentLength": 11603,
+    "uri": "tibkfgyl.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 19258501,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 242,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "tibkfgyl_8K_AO.exr"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 1973499,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 242,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "tibkfgyl_8K_AO.jpg"
+    },
+    {
+      "averageColor": "#693E30",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 249834691,
+      "maxIntensity": 87,
+      "mimeType": "image/x-exr",
+      "minIntensity": 58,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "tibkfgyl_8K_Basecolor.exr"
+    },
+    {
+      "averageColor": "#693E30",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 52144365,
+      "maxIntensity": 87,
+      "mimeType": "image/jpeg",
+      "minIntensity": 58,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "tibkfgyl_8K_Basecolor.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 180977416,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "tibkfgyl_8K_Bump.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 7961243,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "tibkfgyl_8K_Bump.jpg"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 202170847,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "tibkfgyl_8K_Cavity.exr"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 26365704,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "tibkfgyl_8K_Cavity.jpg"
+    },
+    {
+      "averageColor": "#B5B5B5",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 205295427,
+      "maxIntensity": 192,
+      "mimeType": "image/x-exr",
+      "minIntensity": 170,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "tibkfgyl_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#B5B5B5",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 30826068,
+      "maxIntensity": 192,
+      "mimeType": "image/jpeg",
+      "minIntensity": 170,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "tibkfgyl_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#8181FF",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 137553529,
+      "maxIntensity": 146,
+      "mimeType": "image/x-exr",
+      "minIntensity": 140,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "tibkfgyl_8K_Normal.exr"
+    },
+    {
+      "averageColor": "#8181FF",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 28138738,
+      "maxIntensity": 146,
+      "mimeType": "image/jpeg",
+      "minIntensity": 140,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "tibkfgyl_8K_Normal.jpg"
+    },
+    {
+      "averageColor": "#4A4A4A",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 213679056,
+      "maxIntensity": 85,
+      "mimeType": "image/x-exr",
+      "minIntensity": 63,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "tibkfgyl_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#4A4A4A",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 31728159,
+      "maxIntensity": 85,
+      "mimeType": "image/jpeg",
+      "minIntensity": 63,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "tibkfgyl_8K_Roughness.jpg"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 174249392,
+      "maxIntensity": 56,
+      "mimeType": "image/x-exr",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "tibkfgyl_8K_Specular.exr"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 12426595,
+      "maxIntensity": 56,
+      "mimeType": "image/jpeg",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "tibkfgyl_8K_Specular.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "2x2 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.001 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "8192 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Dutch Rosewood Parquet",
+  "pack": {
+    "_id": "polished-parquets",
+    "name": "Polished Parquets"
+  },
+  "physicalSize": null,
+  "points": 2,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 244676,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "tibkfgyl_Grid_360.png"
+      },
+      {
+        "contentLength": 330444,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "tibkfgyl_Grid_420.png"
+      },
+      {
+        "contentLength": 977723,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "tibkfgyl_Grid_720.png"
+      },
+      {
+        "contentLength": 1335971,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "tibkfgyl_Grid_840.png"
+      },
+      {
+        "contentLength": 1853305,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "tibkfgyl_PopupClay_1440.png"
+      },
+      {
+        "contentLength": 3436741,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "tibkfgyl_PopupClay_1920.png"
+      },
+      {
+        "contentLength": 7319791,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "tibkfgyl_PopupClay_2880.png"
+      },
+      {
+        "contentLength": 13734696,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "tibkfgyl_PopupClay_3840.png"
+      },
+      {
+        "contentLength": 2754791,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "tibkfgyl_PopupTiled_1440.png"
+      },
+      {
+        "contentLength": 5088981,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "tibkfgyl_PopupTiled_1920.png"
+      },
+      {
+        "contentLength": 10857997,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "tibkfgyl_PopupTiled_2880.png"
+      },
+      {
+        "contentLength": 20505260,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "tibkfgyl_PopupTiled_3840.png"
+      },
+      {
+        "contentLength": 2747686,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "tibkfgyl_Popup_1440.png"
+      },
+      {
+        "contentLength": 5091322,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "tibkfgyl_Popup_1920.png"
+      },
+      {
+        "contentLength": 10970848,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "tibkfgyl_Popup_2880.png"
+      },
+      {
+        "contentLength": 21007860,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "tibkfgyl_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-17 09:12:28",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "semanticTags": {
+    "architectural_style": {},
+    "asset_type": "surface",
+    "contains": [
+      "wood",
+      "grout",
+      "pattern"
+    ],
+    "country": "Pakistan",
+    "descriptive": [
+      "clean",
+      " polished",
+      " smooth",
+      " decorative",
+      " patterned"
+    ],
+    "environment": [
+      "urban"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "interior_exterior": [
+      "interior"
+    ],
+    "latin_name": [],
+    "locations": {
+      "Asia": {
+        "Pakistan": {}
+      }
+    },
+    "maxSize": 2,
+    "minSize": 2,
+    "name": "Dutch Rosewood Parquet",
+    "orientation": [
+      "floor"
+    ],
+    "region": "Asia",
+    "resolution": 16384,
+    "season": [],
+    "state": [
+      "new"
+    ],
+    "subject_matter": "manmade",
+    "theme": [
+      "interiors",
+      " homes",
+      " offices",
+      " urban",
+      " flooring",
+      " floors"
+    ]
+  },
+  "tags": [
+    "surface",
+    "wood",
+    "dark",
+    "archviz"
+  ],
+  "texelDensity": 8192,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 211288344,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/tibkfgyl_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 61164714,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/tibkfgyl_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 15454046,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/tibkfgyl_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 1017439,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/tibkfgyl_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
