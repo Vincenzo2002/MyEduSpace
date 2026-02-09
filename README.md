@@ -3,9 +3,9 @@
   <img src="https://github.com/user-attachments/assets/92d17eb7-6313-49cf-9526-7e049330813e" alt="LogoMyEduSpace" width="500"/>
 </p>
 
-**MyEduSpace** è un progetto open-source sviluppato in **Unity3D** per la realizzazione di un **ambiente virtuale immersivo e collaborativo** dedicato all’educazione e alla formazione.
+**MyEduSpace** è un progetto sviluppato in **Unity3D** per la realizzazione di un **ambiente virtuale immersivo e collaborativo** dedicato all’educazione e alla formazione.
 
-La piattaforma consente a docenti e studenti di incontrarsi in un’aula virtuale 3D, interagire in tempo reale e sperimentare nuove modalità di didattica in un contesto immersivo.
+La piattaforma consente a docenti e studenti di incontrarsi in un’aula virtuale 3D, interagire in tempo reale e sperimentare diverse modalità di didattica in un contesto immersivo.
 
 ---
 
@@ -21,19 +21,19 @@ MyEduSpace è un **Virtual Learning Environment** progettato per supportare dive
 - **Esplorazione 3D dell’ambiente**  
   Movimento libero all’interno dell’aula virtuale: camminare, sedersi, ruotare la visuale e interagire con gli oggetti presenti nella scena.
 
-- **Avatar e presenza virtuale**  
+- **Avatar**  
   Ogni utente è rappresentato da un avatar a mezzo busto visibile agli altri partecipanti.
 
 - **Comunicazione vocale**  
   Chat vocale con audio spaziale 3D per una comunicazione più realistica.
 
 - **Chat testuale**  
-  Sistema di messaggistica testuale integrato nell’interfaccia.
+  Sistema di messaggistica testuale.
 
 - **Proiezione di contenuti multimediali**  
   Visualizzazione di contenuti tramite l'utilizzo di un proiettore
 
-- **Lavagna condivisa**  
+- **Whiteboard**  
   Scrittura e disegno su una lavagna virtuale.
   
 - **Personalizzazione aule**  
